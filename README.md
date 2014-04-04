@@ -16,6 +16,10 @@ Max coinbase		70000000000 coins
 P2P port		11001
 RPC port		21001
 
+http://coincreator.net/#coins/531135d4d3bf62b2b54e65b24812eecfda600f824791198f069bac8c
+http://voimariini.s3.amazonaws.com/531135d4d3bf62b2b54e65b2/src-linux.tar.gz
+http://voimariini.s3.amazonaws.com/531135d4d3bf62b2b54e65b2/winqt.zip
+
 
 License
 -------
